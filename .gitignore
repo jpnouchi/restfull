@@ -10,11 +10,12 @@
 bin/
 gen/
 Servers/
+target/
 
 
 # Eclipse project files
-.classpath
-.project
+#.classpath
+#.project
 .metadata
 
 # Idea project files
